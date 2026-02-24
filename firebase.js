@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 import { getFunctions, httpsCallable } from "firebase/functions";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAkN-mKVXj-Rjl0EcFzF0QZC-O8Uyghzq4",
-  authDomain: "pki-f24b2.firebaseapp.com",
-  projectId: "pki-f24b2",
-  storageBucket: "pki-f24b2.firebasestorage.app",
-  messagingSenderId: "906137473",
-  appId: "1:906137473:web:cd84fb2a300da484e1a280",
-  measurementId: "G-N3RW637EBW"
+  apiKey: "...",
+  authDomain: "...",
+  projectId: "...",
+  storageBucket: "...",
+  messagingSenderId: "...",
+  appId: "...",
+  measurementId: "..."
 };
 
 const app = initializeApp(firebaseConfig);
